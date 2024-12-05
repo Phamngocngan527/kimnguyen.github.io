@@ -111,3 +111,13 @@
                     <p align="justify">Hello mọi người! Mình là Lữ Ngọc Kim Nguyên 12L. Là một trong bốn thành viên của nhóm 4 Tin học. Mình siêu siêu thích chụp ảnh và rất mong mọi người sẽ thích những tấm ảnh do mình chụp. Các cậu có thể follow instagram: <a href="https://www.instagram.com/ln.ikmie_gnyun" target="_blank">ln.ikmie_gnyun</a> để xem thật nhiều ảnh đẹp nếu các cậu thích =)))</p>
                 </td>
             </tr>
+        </table>
+
+    </main>
+
+    <footer>
+        <p>Kim Nguyên's Biography © 2024</p>
+    </footer>
+
+</body>
+</html>
