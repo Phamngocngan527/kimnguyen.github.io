@@ -85,7 +85,7 @@
         <table align="center">
             <tr>
                 <td colspan="2">
-                    <img src="060bfb4bf41b4e45170a.jpg" alt="Kim Nguyên">
+                    <img src="9094858ebcb206ec5fa3.jpg" alt="Kim Nguyên">
                 </td>
             </tr>
             <tr>
